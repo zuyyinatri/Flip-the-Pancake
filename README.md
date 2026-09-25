@@ -5,7 +5,7 @@
 Puzzle Game Berbasis Pygame
 
 | | |
-|---|---|
+|:---:|:---:|
 | **Nama Game** | Flip the Pancake |
 | **Genre** | Puzzle |
 | **Engine** | Pygame |
